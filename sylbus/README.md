@@ -23,7 +23,7 @@
 - 1.20 Cài đặt MetaMask
 - 1.21 Thực hiện Transaction đầu tiên với MetaMask
 
-## 2. Lập trình Smart Contract với ngôn ngữ Solidity (Lesson 2-6)
+## 2. Lập trình Smart Contract với ngôn ngữ Solidity (Lesson 2-4)
 
 - 2.1 Hiểu về Smart Contract
   
@@ -63,7 +63,7 @@
 - 2.32 Delegatecall function Example
 - 2.33 Tìm hiểu về Call function Example
 
-## 4. Project 1: Fund Wallet (Lesson 7)
+## 4. Project 1: Fund Wallet (Lesson 5)
 
 - 3.1 Giới thiệu project
 - 3.2 Khởi tạo Smart Contract & ôn tập Kế thừa (Inheritance)
@@ -73,7 +73,7 @@
 - 3.6 Thêm thư viện SafeMath để hoàn thiện logic
 - 3.7 Loại bỏ chức năng renounceOwnership trong Contract
 
-## 5. Tìm hiểu Web3.js thông qua cách tương tác với Smart Contract, Browser (Lesson 8) 
+## 5. Tìm hiểu Web3.js thông qua cách tương tác với Smart Contract, Browser (Lesson 5) 
 	
 - 4.1 Tìm hiểu Web3.js
 - 4.2 Cài đặt NodeJS
@@ -86,9 +86,11 @@
 4.5 Sử dụng Web3.js để tương tác với Smart Contract
 4.6 Sử dụng Web3.js để tương tác với Smart Contract trên Browser
 
-## 6. Tìm hiểu & sử dụng Hardhat or Truffle framework (Lesson 9)
+## 6. Tìm hiểu & sử dụng Truffle framework (Lesson 6)
 
 
-## 7. Project 2: Thực hiện chức năng mua Token ERC-20 theo Whitelist (Lesson 10-11)
+## 7. Project 2: Thực hiện chức năng mua Token ERC-20 theo Whitelist (Lesson 7-8)
 
-## 8. Project 3: NFT Marketplace (Lesson 12-16)
+## 8. Project 3: NFT Marketplace (Lesson 9-12)
+
+## 9.  Your Project (Lesson 13-16)
