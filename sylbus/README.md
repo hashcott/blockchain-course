@@ -23,7 +23,7 @@
 - 1.20 Cài đặt MetaMask
 - 1.21 Thực hiện Transaction đầu tiên với MetaMask
 
-## 2. Lập trình Smart Contract với ngôn ngữ Solidity (Lesson 2-4)
+## 2. Lập trình Smart Contract với ngôn ngữ Solidity (Lesson 1-4)
 
 - 2.1 Hiểu về Smart Contract
   
